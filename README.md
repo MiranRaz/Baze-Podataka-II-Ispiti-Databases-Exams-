@@ -1,4 +1,4 @@
-<b>#SQL Server Database II Exams#</b>
+<b>SQL Server Database II Exams</b>\n
 Urađeni zadatci iz predmeta Baze Podataka II. Predmetni profesor: 
 <b><i>dr.sc.Jasmin Azemović</i></b>.
 _________________________________________________
